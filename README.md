@@ -36,7 +36,9 @@ Simply replace all uses of `DateTime` with `AADateTime` in your code.
 
 - DateTime format strings of the format "first day of..." or "last day of..." cannot be used
 
-- 
+- Probably more
+
+If you are doing any serious PHP work, but are stuck on 5.2, email your host and try to get upgraded before resorting to using something like this. It really should be a last resort.
 
 
 [PHP-DateInterval]: http
